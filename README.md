@@ -4,7 +4,7 @@
 This project demonstrates how modern BI tools can turn static data into powerful, interactive business intelligence — driving better, faster decisions at every level of the organization.
 
 
-**Live Dashboard Link -** (https://app.powerbi.com/view?r=eyJrIjoiNWNiY2E1OTgtZTM2NS00MWI3LWJmMGItNjIzN2I3OGRjODc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Live Dashboard Link -** https://app.powerbi.com/view?r=eyJrIjoiNWNiY2E1OTgtZTM2NS00MWI3LWJmMGItNjIzN2I3OGRjODc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
@@ -47,4 +47,4 @@ In this project, I transformed raw data into actionable business insights using 
 - **✅ Dynamic Filtering**– Instantly filter by year, region, or benchmark for real-time updates.
 - **✅ Drill-through Navigation** – Seamlessly dive deeper into specific data layers with intuitive drill-through and cross-report navigation.
 
- **LinkedIn Post -** (https://www.linkedin.com/feed/update/urn:li:ugcPost:7351496048730603520/ ) 
+ **LinkedIn Post -** https://www.linkedin.com/feed/update/urn:li:ugcPost:7351496048730603520/ 
