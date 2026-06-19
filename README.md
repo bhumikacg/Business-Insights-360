@@ -5,6 +5,7 @@ This project demonstrates how modern BI tools can turn static data into powerful
 
 **LinkedIn Post -**  _[Business Insights 360 ](https://www.linkedin.com/feed/update/urn:li:activity:7351496050475417602/)_
 
+**Slides of Project -**  _[Business Insights 360 ](https://www.linkedin.com/feed/update/urn:li:activity:7351496050475417602/)
 
 **Live Dashboard Link -** https://app.powerbi.com/view?r=eyJrIjoiNWNiY2E1OTgtZTM2NS00MWI3LWJmMGItNjIzN2I3OGRjODc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
